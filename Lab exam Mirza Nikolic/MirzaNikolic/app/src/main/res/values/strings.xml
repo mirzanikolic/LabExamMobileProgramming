@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MirzaNikolic</string>
+    <string name="add_new">Add new</string>
+    <string name="model">Model</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="color">Color</string>
+    <string name="price">Price</string>
+    <string name="camera_pixels">Camera pixels</string>
+    <string name="memory">Memory</string>
+    <string name="year_of_manufacturing">Year of manufacturing</string>
+</resources>
